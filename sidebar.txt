@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[uli:home|Door43 (uli)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-uli|d43-uli repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-uli/archive/master.zip|d43-uli.zip]]
+
+**Recent Changes**
+{{changes>ns = uli}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/uli|Ethnologue data]]
+
